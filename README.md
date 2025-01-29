@@ -9,16 +9,16 @@ Just for fun! Blathers yaps a lot, so I figured it would be a perfect opportunit
 
 ### 🔍 Sources:
 - list of bugs, fish and sea creatures: [u/ItsBrettly](https://reddit.com/r/AnimalCrossingNewHor/comments/1412kk6/)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1HyeM_AmasxJkmvQ-Ur4gtlR-z8fT28GOIkgx4S9RTo8/edit?usp=sharing)
-- specimen donation quotes: [animalcrossing.fandom.com](animalcrossing.fandom.com/) & [nookipedia.com](https://nookipedia.com/)
-- list of fossil groups: [Nookipedia API](https://api.nookipedia.com/doc)
+- specimen donation quotes: [animalcrossing.fandom.com](https://animalcrossing.fandom.com/) & [nookipedia.com](https://nookipedia.com/)
+- list of complete fossils (groups): [Nookipedia API](https://api.nookipedia.com/doc)
 
 <details>
 <summary>(Expand for banner credits.)</summary>
 <br>
 
-- ACNH leaf pattern background: [Vach](https://www.reddit.com/r/ac_newhorizons/comments/fbizr9/i_updated_my_nook_inc_wallpaper_collection_link/)
-- ACNH speech bubble: [triviacrossing](https://triviacrossing.tumblr.com/post/646625973965570048/since-i-made-that-new-leaf-dialogue-box-a-while)
-- fonts: FOT Rodin Bokutoh Pro, FOT Seurat Pro [[:link:](https://www.reddit.com/r/AnimalCrossing/comments/gmz7u2)]
+- ACNH leaf pattern background: [u/Vach](https://www.reddit.com/r/ac_newhorizons/comments/fbizr9/i_updated_my_nook_inc_wallpaper_collection_link/)
+- ACNH speech bubble PNG: [triviacrossing](https://triviacrossing.tumblr.com/post/646625973965570048/since-i-made-that-new-leaf-dialogue-box-a-while)
+- fonts: FOT Rodin Bokutoh Pro, FOT Seurat Pro
 </details>
 
 ---
@@ -87,7 +87,7 @@ blathersText(OPTION_NAME).then(output => {
 
 ---
 
-### 💞 Thank you ^3^
+### 💞 Thank you ⋆
 
 If you have any questions or run into any issues, you can contact me via:
 
