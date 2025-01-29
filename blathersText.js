@@ -10,7 +10,7 @@
 window.blathersText = function(params){
     return new Promise((resolve,reject) => {
         let blathersTextInit = () => {
-            fetch("./quotes.min.json")
+            fetch("https://cdn.jsdelivr.net/gh/glenthemes/blathers-text@main/blathersText.js")
             .then(res => res.json())
             .then(res => {
                 let blathersJSON = res;
