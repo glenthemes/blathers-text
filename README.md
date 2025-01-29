@@ -2,10 +2,10 @@
 
 ### 👋 Introduction:
 
-`blathersText()` is a JavaScript plugin that generates quotes from Blathers by specifying a category (e.g. bugs, fish), or leaving it blank to retrieve a random quote. All quotes are from the official ACNH game, which Blathers will say when the player donates a specimen and presses *"Tell me about this!"*.
+`blathersText()` is a JavaScript plugin that generates quotes from Blathers by specifying a category (e.g. bugs, fish), or leaving it blank to retrieve a random quote. All quotes are from ACNH, which Blathers will say when the player donates a specimen and presses *"Tell me about this!"*.
 
 ### 💡 Purpose:
-Just for fun! Blathers yaps a lot, so I figured it would be a perfect opportunity to spice up [lorem ipsum](https://www.lipsum.com/).
+Just for fun! Blathers yaps a lot, so I figured it would be a perfect opportunity to spice up [lorem ipsum](https://www.tundra.nl/en/jargon/lorem-ipsum/).
 
 ### 🔍 Sources:
 - list of bugs, fish and sea creatures: [u/ItsBrettly](https://reddit.com/r/AnimalCrossingNewHor/comments/1412kk6/)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1HyeM_AmasxJkmvQ-Ur4gtlR-z8fT28GOIkgx4S9RTo8/edit?usp=sharing)
