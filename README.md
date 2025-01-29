@@ -10,7 +10,7 @@ Just for fun! Blathers yaps a lot, so I figured it would be a perfect opportunit
 ### 🔍 Sources:
 - list of bugs, fish and sea creatures: [u/ItsBrettly](https://reddit.com/r/AnimalCrossingNewHor/comments/1412kk6/)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1HyeM_AmasxJkmvQ-Ur4gtlR-z8fT28GOIkgx4S9RTo8/edit?usp=sharing)
 - specimen donation quotes: [animalcrossing.fandom.com](animalcrossing.fandom.com/) & [nookipedia.com](https://nookipedia.com/)
-- fossil donation quotes: pulled from [Nookipedia API](https://api.nookipedia.com/doc)
+- list of fossil groups: [Nookipedia API](https://api.nookipedia.com/doc)
 
 <details>
 <summary>(Expand for banner credits.)</summary>
@@ -92,4 +92,4 @@ blathersText(OPTION_NAME).then(output => {
 If you have any questions or run into any issues, you can contact me via:
 
 :love_letter: glenthemes.exe@gmail.com  
-:computer: [discord.gg](https://discord.gg/RcMKnwz)
+:computer: [discord.gg/RcMKnwz](https://discord.gg/RcMKnwz)
